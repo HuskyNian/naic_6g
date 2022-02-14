@@ -1,5 +1,6 @@
 # naic_6g <br>
-2022naic 6g competition
+2022naic 6g competition<br>
+竹竹天下第一队伍 第一阶段代码
 
 
 environment:<br>
