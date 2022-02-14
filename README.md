@@ -1,7 +1,7 @@
-# naic_6g
+# naic_6g <br>
 2022naic 6g competition
 
 
-environment:
-•	numpy==1.19.5
+environment:<br>
+•	numpy==1.19.5<br>
 •	torch=1.9.1
