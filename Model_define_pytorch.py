@@ -267,11 +267,7 @@ class Decoder(nn.Module):
         #out = out*std+mean
         return out
     
-def get_efficientnet_ns(model_name='tf_efficientnet_b0_ns', pretrained=True):
-    net = timm.create_model(model_name, pretrained=pretrained)
-    n_features = net.classifier.in_features
 
-    return net, n_features
 
 class Encoder(nn.Module):
     B = 2
