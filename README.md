@@ -1,5 +1,5 @@
 # naic_6g <br>
-2022naic 6g competition<br>
+2021naic 6g competition<br>
 竹竹天下第一队伍 第一阶段代码
 
 
@@ -15,5 +15,5 @@ Training model:<br>
 <br>
 2.	run Model_train.py<br>
 3.	在models文件夹中含有生成的结果encoder.pth和decoder.pth<br>
-4.	然后把ModelDefine.py，encoder.pth和decoder.pth放到project文件夹里，打包提交即可。
+4.	然后把Model_define_pytorch.py，encoder.pth和decoder.pth放到project文件夹里，打包提交即可。
 
