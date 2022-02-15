@@ -3,9 +3,7 @@ import torch.nn as nn
 import torch
 import torch.nn.functional as F
 from torch.utils.data import Dataset
-import timm
 import torchvision
-from collections import OrderedDict
 import gc
 import os
 import random
