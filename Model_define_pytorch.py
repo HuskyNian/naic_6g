@@ -3,10 +3,7 @@ import torch.nn as nn
 import torch
 import torch.nn.functional as F
 from torch.utils.data import Dataset
-import torchvision
-import gc
-import os
-import random
+from collections import OrderedDict
 mean = 0.5
 std = 0.01
 # This part implement the quantization and dequantization operations.
